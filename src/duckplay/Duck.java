@@ -12,6 +12,7 @@ import com.interfacelist.FlyBehavior;
  * @author wasir
  */
 public abstract class Duck {
+    String wasir;
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
 
